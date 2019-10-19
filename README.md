@@ -3,12 +3,17 @@
 Difficulties:
 
 
+Day 1 - Easy - Hash Table
 
-Day 139 - Medium
+Day 5 - Medium - Functional Programming 
 
-Day 143 - Medium
+Dat 68 - Medium - Graph Traversal
 
-Day 157 - Easy
+Day 139 - Medium - Binary Search 
 
-Day 176 - Easy
+Day 143 - Medium - Simulation
+
+Day 157 - Easy - Counting
+
+Day 176 - Easy - Counting 
 
