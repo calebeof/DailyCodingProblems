@@ -1,27 +1,40 @@
 # DailyCodingProblems
 
-Difficulties:
+Problems:
 
+Day i - Difficulty - Category - Company
 
-Day 1 - Easy - Hash Table
+Day 001 - Easy - Hash Table - Google
 
-Day 5 - Medium - Functional Programming 
+Day 005 - Medium - Functional Programming - Jane Street
 
-Dat 68 - Medium - Graph Traversal
+Day 022 - Medium - Hash Table - Microsoft
 
-Day 139 - Medium - Binary Search 
+Day 031 - Easy - Dynamic Programming (Edit Distance) - Google
 
-Day 143 - Medium - Simulation
+Day 053 - Medium - Queue and Stacks - Apple
 
-Day 156 - Medium - Dynamic Programming
+Day 062 - Medium - Dynamic Programming - Facebook
 
-Day 157 - Easy - Counting
+Day 068 - Medium - Graph Traversal - Google
 
-Day 165 - Medium - Segment Tree
+Day 101 - Easy - Primes - Alibaba
 
-Day 176 - Easy - Counting 
+Day 113 - Medium - Simulation - Google
 
-Day 184 - Easy - Euclid Algorithm
+Day 139 - Medium - Binary Search - NULL
 
-Day 192 - Medium - Dynamic Programming
+Day 143 - Medium - Simulation - Amazon
+
+Day 156 - Medium - Dynamic Programming - Facebook
+
+Day 157 - Easy - Counting - Google
+
+Day 165 - Medium - Segment Tree - Google
+
+Day 176 - Easy - Counting - Bloomberg
+
+Day 184 - Easy - Euclid Algorithm - Amazon
+
+Day 192 - Medium - Dynamic Programming - Google
 
