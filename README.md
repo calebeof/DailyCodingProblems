@@ -19,9 +19,9 @@ Day 157 - Easy - Counting
 
 Day 165 - Medium - Segment Tree
 
-Day 184 - Easy - Euclid Algorithm
-
 Day 176 - Easy - Counting 
+
+Day 184 - Easy - Euclid Algorithm
 
 Day 192 - Medium - Dynamic Programming
 
