@@ -13,7 +13,15 @@ Day 139 - Medium - Binary Search
 
 Day 143 - Medium - Simulation
 
+Day 156 - Medium - Dynamic Programming
+
 Day 157 - Easy - Counting
 
+Day 165 - Medium - Segment Tree
+
+Day 184 - Easy - Euclid Algorithm
+
 Day 176 - Easy - Counting 
+
+Day 192 - Medium - Dynamic Programming
 
