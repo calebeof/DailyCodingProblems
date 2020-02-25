@@ -38,6 +38,10 @@ Day 184 - Easy - Euclid Algorithm - Amazon
 
 Day 192 - Medium - Dynamic Programming - Google
 
-Day 255 - Easy - DFS - Google
+Day 228 - Medium - Greedy - Twitter
+
+Day 255 - Easy - Graph Traversal - Google
+
+Day 268 - Medium - Math - Indeed
 
 Day 311 - Easy - Binary Search - Sumo Logic
