@@ -26,6 +26,10 @@ Day 139 - Medium - Binary Search - NULL
 
 Day 143 - Medium - Simulation - Amazon
 
+Day 151 - Medium - Graph Traversal - NULL
+
+Day 155 - Medium - Counting - MongoDB
+
 Day 156 - Medium - Dynamic Programming - Facebook
 
 Day 157 - Easy - Counting - Google
