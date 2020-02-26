@@ -48,4 +48,8 @@ Day 255 - Easy - Graph Traversal - Google
 
 Day 268 - Medium - Math - Indeed
 
+Day 298 - Easy - Greedy - Google
+
+Day 300 - Easy - Simulation - Uber
+
 Day 311 - Easy - Binary Search - Sumo Logic
